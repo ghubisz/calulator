@@ -1,0 +1,16 @@
+/home/gabi/programowanie/calculator/bin/Debug/net5.0/calculator
+/home/gabi/programowanie/calculator/bin/Debug/net5.0/calculator.deps.json
+/home/gabi/programowanie/calculator/bin/Debug/net5.0/calculator.runtimeconfig.json
+/home/gabi/programowanie/calculator/bin/Debug/net5.0/calculator.runtimeconfig.dev.json
+/home/gabi/programowanie/calculator/bin/Debug/net5.0/calculator.dll
+/home/gabi/programowanie/calculator/bin/Debug/net5.0/ref/calculator.dll
+/home/gabi/programowanie/calculator/bin/Debug/net5.0/calculator.pdb
+/home/gabi/programowanie/calculator/obj/Debug/net5.0/calculator.csproj.AssemblyReference.cache
+/home/gabi/programowanie/calculator/obj/Debug/net5.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabi/programowanie/calculator/obj/Debug/net5.0/calculator.AssemblyInfoInputs.cache
+/home/gabi/programowanie/calculator/obj/Debug/net5.0/calculator.AssemblyInfo.cs
+/home/gabi/programowanie/calculator/obj/Debug/net5.0/calculator.csproj.CoreCompileInputs.cache
+/home/gabi/programowanie/calculator/obj/Debug/net5.0/calculator.dll
+/home/gabi/programowanie/calculator/obj/Debug/net5.0/ref/calculator.dll
+/home/gabi/programowanie/calculator/obj/Debug/net5.0/calculator.pdb
+/home/gabi/programowanie/calculator/obj/Debug/net5.0/calculator.genruntimeconfig.cache
